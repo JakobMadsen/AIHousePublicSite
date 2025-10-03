@@ -1,0 +1,39 @@
+# IDEs and editors
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build/output folders
+/dist/
+/build/
+/out/
+/coverage/
+
+# Node (if present)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Visual Studio caches and databases
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
